@@ -8,8 +8,8 @@
 
 Me chamo **Michele Oliveira de Araújo**, tenho 35 anos de idade.
 
--Rock n' Roll 🤘
--Anime e Mangá ❤️
+- Rock n' Roll 🤘
+- Anime e Mangá ❤️
 
 Profissional Pós Graduada em Finanças com 8 anos de experiência nas áreas de Gerencia Operacional e Tesouraria.
 Apaixonada por tecnologia e mergulhando nesse universo do JAVA. 
@@ -27,8 +27,8 @@ Principais soft skills :
 
 ## O que estou fazendo atualmente?
 
--💻 Atualmente trabalho como Trainee Java na [Foursys](https://www.foursys.com.br). 
--📚 Estudando *Análise e Desenvolvimento de Sistema* na [Fatec](http://www.fateccarapicuiba.edu.br).
+- 💻 Atualmente trabalho como Trainee Java na [Foursys](https://www.foursys.com.br). 
+- 📚 Estudando *Análise e Desenvolvimento de Sistema* na [Fatec](http://www.fateccarapicuiba.edu.br).
 
 
 ## Tecnologias, Ferramentas e Linguagens
