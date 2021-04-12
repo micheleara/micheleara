@@ -12,12 +12,12 @@ Apaixonada por tecnologia e mergulhando nesse universo do JAVA.
 
 Principais soft skills :
 
-● Comprometimento e dinamismo;
-● Trabalho em equipe e focado em objetivos;
-● Facilidade no planejamento, organização e execução de tarefas;
-● Motivação por novos desafios;
-● Pró-atividade
-● Liderança
+- Comprometimento e dinamismo;
+- Trabalho em equipe e focado em objetivos;
+- Facilidade no planejamento, organização e execução de tarefas;
+- Motivação por novos desafios;
+- Pró-atividade
+- Liderança
 
 E-mail: marauj29@gmail.com 
 
