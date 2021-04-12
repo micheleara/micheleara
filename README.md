@@ -9,6 +9,7 @@
 Me chamo **Michele Oliveira de Araújo**, tenho 35 anos de idade.
 
 Rock n' Roll 🤘
+
 Anime e Mangá ❤️
 
 Profissional Pós Graduada em Finanças com 8 anos de experiência nas áreas de Gerencia Operacional e Tesouraria.
