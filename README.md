@@ -23,7 +23,7 @@ Principais soft skills :
 - Pró-atividade
 - Liderança
 
-✉️ marauj29@gmail.com 
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0073C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:marauj29@gmail.com)  [![whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541985982485)
 
 ## O que estou fazendo atualmente?
 
@@ -31,11 +31,10 @@ Principais soft skills :
 - 📚 Estudando *Análise e Desenvolvimento de Sistema* na [Fatec](http://www.fateccarapicuiba.edu.br).
 
 
-## Tecnologias, Ferramentas e Linguagens
-
-### Ferramentas
+## Linguagens
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+
 
 ## Meu Status no Github
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=micheleara&show_icons=true&locale=en" alt="Michele Oliveira de Araujo" />
