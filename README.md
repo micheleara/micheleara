@@ -27,7 +27,7 @@ Principais soft skills :
 
 ## O que estou fazendo atualmente?
 
-- 💻 Atualmente trabalho como Trainee Java na [Foursys](https://www.foursys.com.br). 
+- 💻 Atualmente trabalho como Analista Java [Foursys](https://www.foursys.com.br). 
 - 📚 Estudando *Análise e Desenvolvimento de Sistema* na [Fatec](http://www.fateccarapicuiba.edu.br).
 
 
